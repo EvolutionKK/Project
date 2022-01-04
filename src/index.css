@@ -5,7 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("https://res-3.cloudinary.com/fieldfisher/image/upload/c_lfill,g_auto/f_auto,q_auto/v1/sectors/technology/tech_neoncircuitboard_857021704_medium_lc5h05"); */
+  /* background-image: url("https://cdn2.vectorstock.com/i/1000x1000/72/66/abstract-blue-colored-technological-background-vector-18937266.jpg"); */
+  /* background-image: url("https://www.wallpaperbetter.com/wallpaper/380/663/637/computer-technology-computer-desktop-background-720P-wallpaper.jpg"); */
+  background-image: url("https://wallpaperaccess.com/full/2018953.jpg");
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
